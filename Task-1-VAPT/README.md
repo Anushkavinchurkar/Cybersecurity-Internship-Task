@@ -1,4 +1,5 @@
-Task 1 – Vulnerability Assessment and Penetration Testing (VAPT)
+Task 1 – Vulnerability Assessment  (VA)
+
 
 🧭 Objective
 The objective of this task is to perform basic vulnerability assessment on a target system using Nmap. The goal is to identify open ports, detect running services, and gather operating system information to understand potential security risks.
